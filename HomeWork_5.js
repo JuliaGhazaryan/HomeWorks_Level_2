@@ -20,7 +20,7 @@ function subSet(array, length) {
       combine(array, [])
       return result
     }
-subSet([1, 2, 3, 4], 3)
+
 
 // 3. Create a decorator delay(f, ms) that delays each call of ‘f’ by ‘ms’ milliseconds.
 
